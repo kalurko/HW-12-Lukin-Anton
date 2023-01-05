@@ -1,0 +1,63 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 21:40:48] "GET /post HTTP/1.1" 200 -
+INFO:root:Поиск: ага
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 21:40:52] "GET /search?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 21:40:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 21:44:11] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 21:44:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Файл photo1672752674.jpeg - не картинка
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 21:44:20] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 21:44:22] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Поиск: ага
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 22:02:37] "GET /search?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 22:02:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 22:02:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 22:02:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: 
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 22:02:49] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 22:02:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 22:03:01] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 22:03:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Файл 20170119_151330.jpg - не картинка
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 22:03:45] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 22:04:16] "GET /post HTTP/1.1" 200 -
+INFO:root:Файл cat.jpg.jpg - не картинка
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 22:04:29] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 22:05:54] "GET /post HTTP/1.1" 200 -
+INFO:root:Файл cat.jpg.jpg - не картинка
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 22:05:55] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 22:05:57] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 22:05:59] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 22:05:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Файл cat.jpg.jpg - не картинка
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 22:06:04] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 22:31:31] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 22:31:34] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 22:31:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Файл cat.png - не картинка
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 22:31:46] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 22:34:40] "GET /post HTTP/1.1" 200 -
+INFO:root:Файл cat.png - не картинка
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 22:34:42] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 22:34:44] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 22:34:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 22:34:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 22:34:52] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 22:34:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 22:34:57] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 22:34:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [04/Jan/2023 22:34:57] "GET /uploads/cat.jpg.jpg HTTP/1.1" 200 -
